@@ -1,2 +1,2 @@
-﻿# Testing-by-Selenium-with-Python
-#the name of the user of this cloud is guru prashath
+﻿#Iam learning selenium 
+##         This repo contains all my selenium Learning files and projects 
