@@ -3,7 +3,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 import time
-# the path of ChromeDriver t
+# Chrome driver path
 chrome_driver_path = r'D:\ARUN\Selenium_learning\selenium_python\chromedriver-win64\chromedriver.exe'
 service = Service(chrome_driver_path)
 # Initialize the WebDriver with the service
