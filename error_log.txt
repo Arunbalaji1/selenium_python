@@ -1,2 +1,27 @@
-ERROR:root:NoSuchElementException: 'WebDriver' object has no attribute 'find_elemeeent'
-ERROR:root:NoSuchElementException: 'WebDriver' object has no attribute 'find_elemeeent'
+
+
+ERROR:root:NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="usejhjhvbjrname"]"}
+  (Session info: chrome=134.0.6998.36); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF640C2DF85+26693]
+	(No symbol) [0x00007FF640B8EAD0]
+	(No symbol) [0x00007FF640A191CA]
+	(No symbol) [0x00007FF640A6F747]
+	(No symbol) [0x00007FF640A6F97C]
+	(No symbol) [0x00007FF640AC33C7]
+	(No symbol) [0x00007FF640A9792F]
+	(No symbol) [0x00007FF640AC00B8]
+	(No symbol) [0x00007FF640A976C3]
+	(No symbol) [0x00007FF640A60490]
+	(No symbol) [0x00007FF640A61743]
+	GetHandleVerifier [0x00007FF640F8436D+3525677]
+	GetHandleVerifier [0x00007FF640F97F3B+3606523]
+	GetHandleVerifier [0x00007FF640F8CEE3+3561379]
+	GetHandleVerifier [0x00007FF640CF7C0A+853194]
+	(No symbol) [0x00007FF640B9990F]
+	(No symbol) [0x00007FF640B95674]
+	(No symbol) [0x00007FF640B95816]
+	(No symbol) [0x00007FF640B84D89]
+	BaseThreadInitThunk [0x00007FFD49F8259D+29]
+	RtlUserThreadStart [0x00007FFD4B78AF38+40]
+

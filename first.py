@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 
 # Ensure the path to your ChromeDriver executable is correct
-chrome_driver_path = r'D:\ARUN\Selenium_learning\selenium_python\chromedriver-win64\chromedriver.exe'
+chrome_driver_path = r'D:\ARUN\Selenium_learning\selenium_python\chromedriver-win64\chromedriver-win64\chromedriver.exe'
 service = Service(chrome_driver_path)
 
 # Initialize the WebDriver with the service

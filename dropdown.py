@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import Select
 import time
 
 # Ensure the path to your ChromeDriver executable is correct
-chrome_driver_path = r'D:\ARUN\Selenium_learning\selenium_python\chromedriver-win64\chromedriver.exe'
+chrome_driver_path = r'D:\ARUN\Selenium_learning\selenium_python\chromedriver-win64\chromedriver-win64\chromedriver.exe'
 service = Service(chrome_driver_path)
 
 # Initialize the WebDriver with the service
@@ -23,6 +23,6 @@ dropdown = Select(driver.find_element(By.ID,"dropdown"))
 time.sleep(2)
 dropdown.select_by_visible_text("Option 1")
 #print result of the process
-print("Selected Option 1")
+print()
 time.sleep(2)
 driver.quit()
